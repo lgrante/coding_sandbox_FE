@@ -1,0 +1,3 @@
+{
+    "ignorePatterns": ["*.mjs", "*.c", "*.wasm"]
+}
